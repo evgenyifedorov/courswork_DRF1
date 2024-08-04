@@ -12,3 +12,11 @@ Celery,
 Redis,
 Unittest,
 flake8
+
+# В проект добавлены задания для courswork_8
+## добавлены файлы для Docker:
+Dockerfile, docker-compose.yaml
+## для подготовки деплоя проекта на удаленный сервер:
+deploy.sh, .gitlab-ci.yml
+## для запуска Djcker введите команду:
+docker-compose up -d --duild
